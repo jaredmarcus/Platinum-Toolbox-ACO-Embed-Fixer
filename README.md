@@ -41,22 +41,21 @@ The premise of making this was I hated how ACO runners couldn't showcase live th
 ## Features
 > Delete Sensitive Information From Checkouts/3DS/SplashPass Embeds
 
-> Utilizes a Bot token to parse embeds and resend to another channel (without utilizing webhooks, preferred to bypass webhook ratelimits). Meaning you can have the bot in a private server, and a public server. Have the bot read from the private server, and display to the public server. 
-
-> Alongside sharing information between 2 servers, software can also resend to another server via a webhook (good incase you can't add a bot to that server). 
+> Utilizes a Bot token to parse embeds found in your private server to then resend to another server via webhook (No Webhook Limits)
 
 > Optional ability to send different embed types from bots, login sessions, test webhooks, declines, etc. 
 
 > Channels are added/removed via a command to ease the configuration process, and remain persistent between bot restarts
+
+> Dedicated `Updater.exe` to handle updates to this repo
 
 > Discord Presence 
 
 ![Presence](https://i.ibb.co/LkqxPGt/test.png)
 
 ## Coming Soon
-> Application Auto Updater
 
-> TBD
+> Analytics
 
 ## Example
 ### Before Edits: 
