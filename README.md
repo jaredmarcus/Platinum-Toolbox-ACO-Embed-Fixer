@@ -8,25 +8,30 @@ The premise of making this was I hated how ACO runners couldn't showcase live th
 > `Balko`
 > `Cyber`
 > `Dakoza`
+> `eStock`
+> `Exo AIO (NFT)`
 > `Freebie Frenzy`
 > `Ganesh`
-> `Exo AIO (NFT)`
 > `Hayha`
 > `Kodai`
 > `Koi`
+> `KSR Automation`
 > `Kylin`
+> `Milton (NFT)`
 > `MekAIO`
 > `Mekpreme`
 > `Noble`
 > `Nyte`
 > `Ominous`
 > `Prism`
+> `Project Enigma`
 > `Quantum IO`
 > `Sigma`
 > `Snailbot`
 > `Stellar`
 > `StormeIO`
 > `Tohru`
+> `Trickle`
 > `Valor`
 > `Velox`
 > `Whatbot`
