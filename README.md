@@ -54,7 +54,7 @@ The premise of making this was I hated how ACO runners couldn't showcase live th
 
 > Discord Presence 
 
-<img src="/resources/presence.png" alt="ACO Helper Presence Shown On Discord">
+<img src="/Resources/presence.png" alt="ACO Helper Presence Shown On Discord">
 
 ## Coming Soon
 
@@ -62,9 +62,9 @@ The premise of making this was I hated how ACO runners couldn't showcase live th
 
 ## Example
 ### Before Edits:
-<img src="/resources/before.png" alt="Before ACO Fixer">
+<img src="/Resources/before.png" alt="Before ACO Fixer">
 
 ### After Edits:
-<img src="/resources/after.png" alt="After ACO Fixer">
+<img src="/Resources/after.png" alt="After ACO Fixer">
 
 
